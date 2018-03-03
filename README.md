@@ -5,6 +5,7 @@ Aerial Robotics
 1. PD controller Gain tuning for Quadcopter
 2. PD controller for nonlinear trajectory (sine wave)
 3. 3D controller and trajectory generation
+
 Robot Motion Planning
 Programming Exercise 1: Dijkstra and Astar
 Programming Exercise 2: Configuration Space
