@@ -7,13 +7,13 @@ Aerial Robotics
 3. 3D controller and trajectory generation
 
 Robot Motion Planning
-Programming Exercise 1: Dijkstra and Astar
-Programming Exercise 2: Configuration Space
-Programming Exercise 3: Probabilistic Roadmap
-Programming Exercise 4: Artificial Potential Fields Gradient Based Planner
+1: Dijkstra and Astar
+2: Configuration Space
+3: Probabilistic Roadmap
+4: Artificial Potential Fields Gradient Based Planner
 
 Robot Estimation and Learning
-Programming Exercise 1: Color Learning and Target Detection using GMMs
-Programming Exercise 2: Kalman Filter⎼Target Tracking
-Programming Exercise 3: Occupancy Grid Mapping
-Programming Exercise 4: Particle Filter Pose Tracking
+1: Color Learning and Target Detection using GMMs
+2: Kalman Filter⎼Target Tracking
+3: Occupancy Grid Mapping
+4: Particle Filter Pose Tracking
